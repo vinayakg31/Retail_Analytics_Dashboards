@@ -2,76 +2,76 @@
 
 ![Retail Dashboard](Screenshot%202025-06-20%20161648.png)
 
-Retail Customer Sales Dashboard
+# Retail Customer Sales Dashboard
+
 This Power BI project visualizes key retail business metrics to help stakeholders track and analyze customer behavior and sales performance over time. Built using a structured retail dataset, the dashboard offers real-time, actionable insights into revenue, transaction trends, customer acquisition, and retention patterns.
 
-Objectives
-To design an interactive dashboard for retail sales performance monitoring.
+---
 
-Enable data-driven decisions through clear visualizations of KPIs like:
+## Objectives
 
-Total Sales
+- Design an interactive dashboard to monitor retail sales performance.
+- Enable data-driven decisions with visualizations of key performance indicators (KPIs).
+- Help stakeholders understand quarterly trends across multiple years.
 
-Average Transaction Value
+---
 
-Customer Acquisition
+## Stakeholders
 
-Customer Retention Rate
+- CEO and Executive Leadership – for strategic planning and revenue growth tracking.
+- Sales and Marketing Teams – to understand customer behavior and optimize campaigns.
+- Business Analysts and Data Teams – to monitor performance and generate reports.
 
-Help stakeholders understand quarterly trends across multiple years.
+---
 
-Stakeholders
-CEO & Executive Leadership – for strategic planning and revenue growth tracking.
+## Business Problem
 
-Sales and Marketing Teams – to understand customer behavior and optimize campaigns.
+Retail companies often face challenges such as:
 
-Business Analysts & Data Teams – to monitor performance and generate reports.
+- Tracking seasonal sales fluctuations.
+- Understanding customer acquisition patterns.
+- Identifying areas for improving customer retention.
+- Monitoring average transaction value to optimize profitability.
 
-Business Problem
-Retail companies often struggle to:
+This dashboard solves the problem by providing a centralized and intuitive visualization tool that combines historical and recent data to offer a comprehensive view of business performance.
 
-Track seasonal sales fluctuations
+---
 
-Understand customer acquisition trends
+## Features and KPIs Visualized
 
-Identify areas to boost customer retention
+- **Total Sales**: ₹5.43M (2020–2022)
+- **Average Transaction Value**: ₹117.97
+- **Total Customers Acquired**: 22.18K
+- **Customer Retention Rate**: 68%
 
-Monitor average transaction value and optimize for profitability
+Additional visualizations:
 
-This dashboard solves the problem by providing a centralized, intuitive visualization tool that combines historical and recent data, enabling a 360° view of retail performance.
+- Quarterly sales trends
+- New customer acquisition by quarter
+- Average transaction value trends
+- Customer retention rate by quarter
 
-Features & KPIs Visualized
-Total Sales: ₹5.43M across three years (2020–2022)
+---
 
-Avg Transaction Value: ₹117.97 overall
+## Tools and Technologies Used
 
-Customer Acquisition: 22.18K new customers acquired
+- Power BI (Dashboard creation)
+- Microsoft Excel / CSV (Data preparation)
+- DAX (Calculated columns and measures)
 
-Customer Retention Rate: 68% average across the time span
+---
 
-Trends Across Quarters:
+## Files Included
 
-Sales spikes identified in Q3 2022 and Q1 2021
+- `Retail_Dashboard.csv.pbix` – Power BI dashboard file
+- `Retail_Dashboard_Data.csv` – Dataset used for analysis
+- `Screenshot.png` – Dashboard preview image
 
-Retention peak observed in Q3 2022 (80.1%)
+---
 
-Notable drop in Avg Transaction Value in Q4 2020
+## Results and Insights
 
-Tools & Technologies Used
-Power BI for interactive dashboard creation
-
-Microsoft Excel / CSV for data manipulation
-
-DAX (Data Analysis Expressions) for calculated fields and KPIs
-
-Files Included
-Retail_Dashboard.csv.pbix – Power BI dashboard file
-
-Retail_Dashboard_Data.csv – Raw dataset used for visualization
-
-Screenshot.png – Final dashboard image for preview
-
-Results & Insights
-Built a professional-grade dashboard capable of supporting monthly and quarterly reporting
-
-Delivered actionable insights to help decision-makers focus on sales trends, retention improvement, and customer growth strategy
+- Created a comprehensive dashboard for monthly and quarterly reporting.
+- Generated insights to improve decision-making regarding sales, customer acquisition, and retention.
+- Demonstrated the ability to handle a business case end-to-end – from raw data to insight delivery.
+- Ideal showcase for roles in Business Intelligence, Data Analytics, or Retail Strategy.
