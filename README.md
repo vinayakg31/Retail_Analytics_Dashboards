@@ -1,8 +1,7 @@
-# Retail_Analytics_Dashboards
+# Retail Customer Sales Dashboard
 
 ![Retail Dashboard](Screenshot%202025-06-20%20161648.png)
 
-# Retail Customer Sales Dashboard
 
 This Power BI project visualizes key retail business metrics to help stakeholders track and analyze customer behavior and sales performance over time. Built using a structured retail dataset, the dashboard offers real-time, actionable insights into revenue, transaction trends, customer acquisition, and retention patterns.
 
